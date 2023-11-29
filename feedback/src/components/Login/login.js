@@ -55,7 +55,7 @@ const Login = () => {
   };
   const { currentUser } = useContext(AuthContext);
   if (redirectToError) {
-    return <Navigate to="/admin" />;
+    return <Navigate to="/error" />;
   } 
   if(currentUser) {
     if (email.endsWith('@moveinsync.com')) {

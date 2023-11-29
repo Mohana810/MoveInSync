@@ -8,13 +8,7 @@ import { getDatabase } from "firebase/database";
 
 
 const firebaseConfig = firebase.initializeApp({
-    apiKey: "AIzaSyD4erbjGfA738T8-jK6u9UggXWynvAiIU0",
-  authDomain: "feedback-7e215.firebaseapp.com",
-  projectId: "feedback-7e215",
-  storageBucket: "feedback-7e215.appspot.com",
-  messagingSenderId: "228515639233",
-  appId: "1:228515639233:web:2ba5418f6a88efe2ec8940",
-  measurementId: "G-N4PBCYLD4S"
+    <REPLACE>
 });
 
 // // Pass your reCAPTCHA v3 site key (public key) to activate(). Make sure this

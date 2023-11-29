@@ -1,0 +1,25 @@
+.MainBtn {
+    width: 392px;
+    height: 189px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #ebeaea;
+    border: none;
+    color: #000;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  }
+  
+  .MainLink{
+      width: 392px;
+    height: 189px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #ebeaea;
+    text-decoration: none;
+  }

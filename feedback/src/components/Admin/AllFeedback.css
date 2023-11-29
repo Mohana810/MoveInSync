@@ -1,0 +1,76 @@
+
+  .AllData{
+    display: flex;
+    flex-direction: column;
+  }
+  .filterSection{
+      width: 100%;
+  }
+  
+  .filter-dropdown {
+    width: 177.493px;
+    height: 29.999px;
+    color: #000;
+  text-align: center;
+  font-family: Arial;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.38px;
+  border-radius: 3px;
+  background: #EBEAEA;
+  }
+  
+  .filter-form {
+    display: flex;
+    width: 40%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30%;
+    padding-right: 12.5%;
+  }
+  
+  .filter-buttons {
+    display: flex;
+    margin-left: 10px;
+  }
+  
+  .filter-buttons button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+  }
+  
+  .searchBtn{
+    width: 35px;
+    height: 35px;
+  }
+  
+  .cancelBtn{
+    width: 40px;
+    height: 40px;
+    padding-bottom: 10%;
+  }
+  
+  .bottomSection{
+    margin-left: 22%;
+    width: 100%;
+  }
+  .midHeading{
+    margin-left: 50%;
+  }
+  .Heading1{
+    margin-left: 43%;
+  }
+  .Heading2{
+    margin-left: 44%;
+  }
+  
+  .but3{
+    margin-left: 48.5%;
+  }
+  
